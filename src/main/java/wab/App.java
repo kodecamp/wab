@@ -6,7 +6,6 @@ import java.io.IOException;
 
 /**
  *
- * @author airhacks.com
  */
 public class App {
 
