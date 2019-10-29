@@ -13,6 +13,10 @@ mvn war:exploded
 
 # usage
 
+1. clone the repo and execute the mvn package 
+2. A wab.jar is created in the target folder
+3. run the jar by using java utility
+
 `[THIN_WAR]/java -jar wab.jar
 
 
